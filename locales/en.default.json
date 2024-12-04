@@ -1,0 +1,8 @@
+{
+  "sections": {
+    "trustpilot": {
+      "based_on": "Based on ",
+      "reviews": "{{ count }} reviews"
+	}
+  }
+}
